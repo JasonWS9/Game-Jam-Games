@@ -1,0 +1,4199 @@
+fileFormatVersion: 2
+guid: cde1665a94344334783bd6055fa84c0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2484953741054241863
+    second: CharAni-Sheet4_0
+  - first:
+      213: -1117667294286563116
+    second: CharAni-Sheet4_1
+  - first:
+      213: -2292254211875033920
+    second: CharAni-Sheet4_2
+  - first:
+      213: -2879477619445623595
+    second: CharAni-Sheet4_3
+  - first:
+      213: 2326351578401158943
+    second: CharAni-Sheet4_4
+  - first:
+      213: -3786539517011274663
+    second: CharAni-Sheet4_5
+  - first:
+      213: -764753838210850416
+    second: CharAni-Sheet4_6
+  - first:
+      213: -5262870103396523323
+    second: CharAni-Sheet4_7
+  - first:
+      213: -8772459956379980873
+    second: CharAni-Sheet4_8
+  - first:
+      213: 5150976330806246060
+    second: CharAni-Sheet4_9
+  - first:
+      213: -6440295014339249916
+    second: CharAni-Sheet4_10
+  - first:
+      213: 3776163538788429891
+    second: CharAni-Sheet4_11
+  - first:
+      213: 696982235455340048
+    second: CharAni-Sheet4_12
+  - first:
+      213: 2215253757436455294
+    second: CharAni-Sheet4_13
+  - first:
+      213: -3787823128951530849
+    second: CharAni-Sheet4_14
+  - first:
+      213: -3820637716740078343
+    second: CharAni-Sheet4_15
+  - first:
+      213: -8171795776085320252
+    second: CharAni-Sheet4_16
+  - first:
+      213: 1305644766227285546
+    second: CharAni-Sheet4_17
+  - first:
+      213: 3351525191810705790
+    second: CharAni-Sheet4_18
+  - first:
+      213: -8843802636837307321
+    second: CharAni-Sheet4_19
+  - first:
+      213: 2471988685165499571
+    second: CharAni-Sheet4_20
+  - first:
+      213: -9178770806287702992
+    second: CharAni-Sheet4_21
+  - first:
+      213: 2520470488535152234
+    second: CharAni-Sheet4_22
+  - first:
+      213: 3115011643704047804
+    second: CharAni-Sheet4_23
+  - first:
+      213: -8723466701149893484
+    second: CharAni-Sheet4_24
+  - first:
+      213: -4038497658946895409
+    second: CharAni-Sheet4_25
+  - first:
+      213: -8376956503826425318
+    second: CharAni-Sheet4_26
+  - first:
+      213: -244967166898533600
+    second: CharAni-Sheet4_27
+  - first:
+      213: -8608430481783622962
+    second: CharAni-Sheet4_28
+  - first:
+      213: 3932248645220219622
+    second: CharAni-Sheet4_29
+  - first:
+      213: -9013986724183355876
+    second: CharAni-Sheet4_30
+  - first:
+      213: -8802368575907287284
+    second: CharAni-Sheet4_31
+  - first:
+      213: -3624094067376879126
+    second: CharAni-Sheet4_32
+  - first:
+      213: -1457012857297185543
+    second: CharAni-Sheet4_33
+  - first:
+      213: 109691934151856538
+    second: CharAni-Sheet4_34
+  - first:
+      213: -3375372133238999897
+    second: CharAni-Sheet4_35
+  - first:
+      213: -1015038986214286816
+    second: CharAni-Sheet4_36
+  - first:
+      213: -7956563497541155973
+    second: CharAni-Sheet4_37
+  - first:
+      213: -5182529425703312998
+    second: CharAni-Sheet4_38
+  - first:
+      213: -305899259474770912
+    second: CharAni-Sheet4_39
+  - first:
+      213: 1507910690430685456
+    second: CharAni-Sheet4_40
+  - first:
+      213: 7766005037439720923
+    second: CharAni-Sheet4_41
+  - first:
+      213: -2006424469610071366
+    second: CharAni-Sheet4_42
+  - first:
+      213: -6828657937602998902
+    second: CharAni-Sheet4_43
+  - first:
+      213: -8542214598990280979
+    second: CharAni-Sheet4_44
+  - first:
+      213: -146927825461564570
+    second: CharAni-Sheet4_45
+  - first:
+      213: 2131883920216628281
+    second: CharAni-Sheet4_46
+  - first:
+      213: -5973130361006799797
+    second: CharAni-Sheet4_47
+  - first:
+      213: 4899744240616662362
+    second: CharAni-Sheet4_48
+  - first:
+      213: 5562662043905139490
+    second: CharAni-Sheet4_49
+  - first:
+      213: -1106969196034787437
+    second: CharAni-Sheet4_50
+  - first:
+      213: -5137209428709627302
+    second: CharAni-Sheet4_51
+  - first:
+      213: -4421713336353098032
+    second: CharAni-Sheet4_52
+  - first:
+      213: 336535535563247913
+    second: CharAni-Sheet4_53
+  - first:
+      213: -6427471298803210179
+    second: CharAni-Sheet4_54
+  - first:
+      213: -724504972761344152
+    second: CharAni-Sheet4_55
+  - first:
+      213: 4116367811836448478
+    second: CharAni-Sheet4_56
+  - first:
+      213: -9039274761201779791
+    second: CharAni-Sheet4_57
+  - first:
+      213: -2402837651849407242
+    second: CharAni-Sheet4_58
+  - first:
+      213: 5444474243117101116
+    second: CharAni-Sheet4_59
+  - first:
+      213: -3826741315282676885
+    second: CharAni-Sheet4_60
+  - first:
+      213: 2172696385135944853
+    second: CharAni-Sheet4_61
+  - first:
+      213: -7120950557754236154
+    second: CharAni-Sheet4_62
+  - first:
+      213: -8098980190787153289
+    second: CharAni-Sheet4_63
+  - first:
+      213: -5883280205002536076
+    second: CharAni-Sheet4_64
+  - first:
+      213: -5942412537306791223
+    second: CharAni-Sheet4_65
+  - first:
+      213: 29384554020371941
+    second: CharAni-Sheet4_66
+  - first:
+      213: -6628602998601236965
+    second: CharAni-Sheet4_67
+  - first:
+      213: -7145503220302865153
+    second: CharAni-Sheet4_68
+  - first:
+      213: -6183811686973470521
+    second: CharAni-Sheet4_69
+  - first:
+      213: -2553606271341597285
+    second: CharAni-Sheet4_70
+  - first:
+      213: 5716325401795104346
+    second: CharAni-Sheet4_71
+  - first:
+      213: 949183833651783588
+    second: CharAni-Sheet4_72
+  - first:
+      213: -947855416659097514
+    second: CharAni-Sheet4_73
+  - first:
+      213: -571251807892685588
+    second: CharAni-Sheet4_74
+  - first:
+      213: -9188870768910648803
+    second: CharAni-Sheet4_75
+  - first:
+      213: -2552555431612851626
+    second: CharAni-Sheet4_76
+  - first:
+      213: 5401716251269958657
+    second: CharAni-Sheet4_77
+  - first:
+      213: -8477744169254244014
+    second: CharAni-Sheet4_78
+  - first:
+      213: -3727889324767204777
+    second: CharAni-Sheet4_79
+  - first:
+      213: -12421840169487218
+    second: CharAni-Sheet4_80
+  - first:
+      213: -6428781705332590228
+    second: CharAni-Sheet4_81
+  - first:
+      213: 8535487660805356034
+    second: CharAni-Sheet4_82
+  - first:
+      213: 1485774321384882591
+    second: CharAni-Sheet4_83
+  - first:
+      213: 1860699060117453116
+    second: CharAni-Sheet4_84
+  - first:
+      213: 3548611110890203565
+    second: CharAni-Sheet4_85
+  - first:
+      213: 7046371959249847790
+    second: CharAni-Sheet4_86
+  - first:
+      213: 1715522225508020831
+    second: CharAni-Sheet4_87
+  - first:
+      213: -6039574660525213405
+    second: CharAni-Sheet4_88
+  - first:
+      213: -7637447635748723772
+    second: CharAni-Sheet4_89
+  - first:
+      213: 7482363953055990865
+    second: CharAni-Sheet4_90
+  - first:
+      213: -2782141465020735979
+    second: CharAni-Sheet4_91
+  - first:
+      213: 4531239824674719844
+    second: CharAni-Sheet4_92
+  - first:
+      213: 7545128053678049548
+    second: CharAni-Sheet4_93
+  - first:
+      213: 3581986275446594963
+    second: CharAni-Sheet4_94
+  - first:
+      213: -4486546892647645342
+    second: CharAni-Sheet4_95
+  - first:
+      213: 3875071385317005306
+    second: CharAni-Sheet4_96
+  - first:
+      213: -566853518567516548
+    second: CharAni-Sheet4_97
+  - first:
+      213: -3959280814933818473
+    second: CharAni-Sheet4_98
+  - first:
+      213: 2562270340292375675
+    second: CharAni-Sheet4_99
+  - first:
+      213: 4943072593538861853
+    second: CharAni-Sheet4_100
+  - first:
+      213: 6393324679501117440
+    second: CharAni-Sheet4_101
+  - first:
+      213: 7161157270251877076
+    second: CharAni-Sheet4_102
+  - first:
+      213: -3713158188050156598
+    second: CharAni-Sheet4_103
+  - first:
+      213: 2093126516168136024
+    second: CharAni-Sheet4_104
+  - first:
+      213: -3629137738712128838
+    second: CharAni-Sheet4_105
+  - first:
+      213: 2837614701822429373
+    second: CharAni-Sheet4_106
+  - first:
+      213: -2555090579042407228
+    second: CharAni-Sheet4_107
+  - first:
+      213: -1038419311619529039
+    second: CharAni-Sheet4_108
+  - first:
+      213: 2058052734329578370
+    second: CharAni-Sheet4_109
+  - first:
+      213: -2985464910481516726
+    second: CharAni-Sheet4_110
+  - first:
+      213: 2690182077089685865
+    second: CharAni-Sheet4_111
+  - first:
+      213: 716291690344253331
+    second: CharAni-Sheet4_112
+  - first:
+      213: 4589901050601462880
+    second: CharAni-Sheet4_113
+  - first:
+      213: -2968313339205605332
+    second: CharAni-Sheet4_114
+  - first:
+      213: 588013514058121964
+    second: CharAni-Sheet4_115
+  - first:
+      213: 2675758644959227407
+    second: CharAni-Sheet4_116
+  - first:
+      213: -5909213331259343179
+    second: CharAni-Sheet4_117
+  - first:
+      213: 1132601134680484809
+    second: CharAni-Sheet4_118
+  - first:
+      213: 4726840599769654849
+    second: CharAni-Sheet4_119
+  - first:
+      213: -748631168519134665
+    second: CharAni-Sheet4_120
+  - first:
+      213: -4987082630414036825
+    second: CharAni-Sheet4_121
+  - first:
+      213: -5330700580454818101
+    second: CharAni-Sheet4_122
+  - first:
+      213: 3490390175701978001
+    second: CharAni-Sheet4_123
+  - first:
+      213: -4475643258816082058
+    second: CharAni-Sheet4_124
+  - first:
+      213: -3076578895198863675
+    second: CharAni-Sheet4_125
+  - first:
+      213: 1998895982551332152
+    second: CharAni-Sheet4_126
+  - first:
+      213: -5052790712417142008
+    second: CharAni-Sheet4_127
+  - first:
+      213: 1930426086780926560
+    second: CharAni-Sheet4_128
+  - first:
+      213: -5824031930695508157
+    second: CharAni-Sheet4_129
+  - first:
+      213: -2572132128372482291
+    second: CharAni-Sheet4_130
+  - first:
+      213: -3294916016920215538
+    second: CharAni-Sheet4_131
+  - first:
+      213: -775033891930815286
+    second: CharAni-Sheet4_132
+  - first:
+      213: -2341579398773047362
+    second: CharAni-Sheet4_133
+  - first:
+      213: -4156761511721698334
+    second: CharAni-Sheet4_134
+  - first:
+      213: 3841334992079758875
+    second: CharAni-Sheet4_135
+  - first:
+      213: 6448095564075722535
+    second: CharAni-Sheet4_136
+  - first:
+      213: -1336368920560900607
+    second: CharAni-Sheet4_137
+  - first:
+      213: 54837345354979522
+    second: CharAni-Sheet4_138
+  - first:
+      213: -6665180594242137423
+    second: CharAni-Sheet4_139
+  - first:
+      213: -7476910476864871508
+    second: CharAni-Sheet4_140
+  - first:
+      213: 6781558327189433301
+    second: CharAni-Sheet4_141
+  - first:
+      213: 2490231223030512884
+    second: CharAni-Sheet4_142
+  - first:
+      213: -5787331024928827066
+    second: CharAni-Sheet4_143
+  - first:
+      213: -7706329799563426553
+    second: CharAni-Sheet4_144
+  - first:
+      213: -5518954694872177980
+    second: CharAni-Sheet4_145
+  - first:
+      213: 1537065330547363679
+    second: CharAni-Sheet4_146
+  - first:
+      213: -4350415211571080630
+    second: CharAni-Sheet4_147
+  - first:
+      213: -850275121887136892
+    second: CharAni-Sheet4_148
+  - first:
+      213: 4218202347921399129
+    second: CharAni-Sheet4_149
+  - first:
+      213: -7734272613108239960
+    second: CharAni-Sheet4_150
+  - first:
+      213: -8165851765709934405
+    second: CharAni-Sheet4_151
+  - first:
+      213: -4298185046933320799
+    second: CharAni-Sheet4_152
+  - first:
+      213: -8702691328548150929
+    second: CharAni-Sheet4_153
+  - first:
+      213: -7924171809389654051
+    second: CharAni-Sheet4_154
+  - first:
+      213: 6876249645962112004
+    second: CharAni-Sheet4_155
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CharAni-Sheet4_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 743
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ce0daf2445c7220800000000000000
+      internalID: 2484953741054241863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 743
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d83afa748f3d70f0800000000000000
+      internalID: -1117667294286563116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 743
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccab4e60f64030e0800000000000000
+      internalID: -2292254211875033920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 743
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4914a7c5a0a08d0800000000000000
+      internalID: -2879477619445623595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 711
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17354d5f6cd84020800000000000000
+      internalID: 2326351578401158943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 711
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95450980f52837bc0800000000000000
+      internalID: -3786539517011274663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 711
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09163dc9f6c0365f0800000000000000
+      internalID: -764753838210850416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 711
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2e60c568786f6b0800000000000000
+      internalID: -5262870103396523323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_8
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 711
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbe1ade526f14680800000000000000
+      internalID: -8772459956379980873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_9
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 711
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caab62c8ea1fb7740800000000000000
+      internalID: 5150976330806246060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_10
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 711
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409f69d7ec97f96a0800000000000000
+      internalID: -6440295014339249916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_11
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 711
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34034474bb0a76430800000000000000
+      internalID: 3776163538788429891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 679
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01eb21f76ad2ca900800000000000000
+      internalID: 696982235455340048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 679
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7969533e892ebe10800000000000000
+      internalID: 2215253757436455294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 679
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ad5d6dee2fe6bc0800000000000000
+      internalID: -3787823128951530849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 679
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f48f3e3d3e5afac0800000000000000
+      internalID: -3820637716740078343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_16
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 679
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd9565a903f79e80800000000000000
+      internalID: -8171795776085320252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 679
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2643dd4ff49e1210800000000000000
+      internalID: 1305644766227285546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 679
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7966a1a762038e20800000000000000
+      internalID: 3351525191810705790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_19
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 679
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c36a7bb50844580800000000000000
+      internalID: -8843802636837307321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 647
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4131cac944e4220800000000000000
+      internalID: 2471988685165499571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 647
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034ee7835947e9080800000000000000
+      internalID: -9178770806287702992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 647
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a663ef72e828af220800000000000000
+      internalID: 2520470488535152234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 647
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb87f2ef59eba3b20800000000000000
+      internalID: 3115011643704047804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_24
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 647
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c0304114500f680800000000000000
+      internalID: -8723466701149893484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_25
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 647
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1493ca6cf54f7c0800000000000000
+      internalID: -4038497658946895409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_26
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 647
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a178a51721fbb80800000000000000
+      internalID: -8376956503826425318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_27
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 647
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b016bd8a3b99cf0800000000000000
+      internalID: -244967166898533600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 615
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec274a31616b88880800000000000000
+      internalID: -8608430481783622962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_29
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 615
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eabcd21f47229630800000000000000
+      internalID: 3932248645220219622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_30
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 615
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ec6fe15d2e7e280800000000000000
+      internalID: -9013986724183355876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_31
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 615
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f2cfaca64b7d580800000000000000
+      internalID: -8802368575907287284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_32
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 615
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae98661a5a1a4bdc0800000000000000
+      internalID: -3624094067376879126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_33
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 615
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4df9f9686a7cbe0800000000000000
+      internalID: -1457012857297185543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_34
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 615
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91d8d1ab34b58100800000000000000
+      internalID: 109691934151856538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_35
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 615
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a47985ade44821d0800000000000000
+      internalID: -3375372133238999897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 583
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a56818b6bd9e1f0800000000000000
+      internalID: -1015038986214286816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_37
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 583
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73483897ab949190800000000000000
+      internalID: -7956563497541155973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_38
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 583
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91e1fe02f4f318b0800000000000000
+      internalID: -5182529425703312998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_39
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 583
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02483f58e3a31cbf0800000000000000
+      internalID: -305899259474770912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_40
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 583
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0119220a8cc2de410800000000000000
+      internalID: 1507910690430685456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_41
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 583
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd1d7c7f6466cb60800000000000000
+      internalID: 7766005037439720923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_42
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 583
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba7d3c439fb724e0800000000000000
+      internalID: -2006424469610071366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_43
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 583
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d858819cbbb31a0800000000000000
+      internalID: -6828657937602998902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_44
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 551
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de64700b415f37980800000000000000
+      internalID: -8542214598990280979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_45
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 551
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b2eb3dbe106fdf0800000000000000
+      internalID: -146927825461564570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_46
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 551
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c11e65129f59d10800000000000000
+      internalID: 2131883920216628281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_47
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 551
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44c61b659d2b1da0800000000000000
+      internalID: -5973130361006799797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_48
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 551
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55e8384d636ff340800000000000000
+      internalID: 4899744240616662362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_49
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 551
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223a38c18ab823d40800000000000000
+      internalID: 5562662043905139490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_50
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 551
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397fb05916143a0f0800000000000000
+      internalID: -1106969196034787437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_51
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 551
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5aa9f02e37f4b8b0800000000000000
+      internalID: -5137209428709627302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_52
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 519
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6f018d52be2a2c0800000000000000
+      internalID: -4421713336353098032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_53
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 519
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9211b8b594d9ba400800000000000000
+      internalID: 336535535563247913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_54
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 519
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38e0de68e80dc6a0800000000000000
+      internalID: -6427471298803210179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_55
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 519
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8675e8cd09a02f5f0800000000000000
+      internalID: -724504972761344152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_56
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 519
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede0d5527b6402930800000000000000
+      internalID: 4116367811836448478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_57
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 519
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbf96f2f7b0e8280800000000000000
+      internalID: -9039274761201779791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_58
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 519
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4159ce2e767aed0800000000000000
+      internalID: -2402837651849407242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_59
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 519
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3032c16a78ae8b40800000000000000
+      internalID: 5444474243117101116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_60
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 487
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63d3477c0fa4eac0800000000000000
+      internalID: -3826741315282676885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_61
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 487
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594adc0d9d7f62e10800000000000000
+      internalID: 2172696385135944853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_62
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 487
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60360f5323d4d2d90800000000000000
+      internalID: -7120950557754236154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_63
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 487
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772d43d3d64aa9f80800000000000000
+      internalID: -8098980190787153289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_64
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 487
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b8cb213d36a5ea0800000000000000
+      internalID: -5883280205002536076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_65
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 487
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c24005184f488da0800000000000000
+      internalID: -5942412537306791223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_66
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 487
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed7440a815686000800000000000000
+      internalID: 29384554020371941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_67
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 487
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1eb84f41b87204a0800000000000000
+      internalID: -6628602998601236965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_68
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 455
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc107cfda216dc90800000000000000
+      internalID: -7145503220302865153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_69
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 455
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c88900b800be2aa0800000000000000
+      internalID: -6183811686973470521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_70
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 455
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d697430a4cf8cd0800000000000000
+      internalID: -2553606271341597285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_71
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 455
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e0a82aaa7745f40800000000000000
+      internalID: 5716325401795104346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_72
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 455
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7ab5feaad2c2d00800000000000000
+      internalID: 949183833651783588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_73
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 455
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658ca9f358a88d2f0800000000000000
+      internalID: -947855416659097514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_74
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 455
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecb141e1818218f0800000000000000
+      internalID: -571251807892685588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_75
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 455
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a3c1c68b29a7080800000000000000
+      internalID: -9188870768910648803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_76
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 423
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ad835eb50839cd0800000000000000
+      internalID: -2552555431612851626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_77
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 423
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c866e9f40c6fa40800000000000000
+      internalID: 5401716251269958657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_78
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 423
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25136f65890095a80800000000000000
+      internalID: -8477744169254244014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_79
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 423
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75aa74b0960e34cc0800000000000000
+      internalID: -3727889324767204777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_80
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 423
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84bd35f66ed3dff0800000000000000
+      internalID: -12421840169487218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_81
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 423
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69fe13a91168c6a0800000000000000
+      internalID: -6428781705332590228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_82
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 423
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a7807fdc4247670800000000000000
+      internalID: 8535487660805356034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_83
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 423
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f910b829fd78e9410800000000000000
+      internalID: 1485774321384882591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_84
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 391
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c393430dfe782d910800000000000000
+      internalID: 1860699060117453116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_85
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 391
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da96d9601033f3130800000000000000
+      internalID: 3548611110890203565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_86
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 392
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee54c52b6fdb9c160800000000000000
+      internalID: 7046371959249847790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_87
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 391
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5271b7ff52cec710800000000000000
+      internalID: 1715522225508020831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_88
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 391
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329b1f468de1f2ca0800000000000000
+      internalID: -6039574660525213405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_89
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 391
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3ec8817d5520690800000000000000
+      internalID: -7637447635748723772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_90
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 391
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154071e3f52b6d760800000000000000
+      internalID: 7482363953055990865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_91
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 391
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51edd86f319d369d0800000000000000
+      internalID: -2782141465020735979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_92
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 359
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46807ddec9232ee30800000000000000
+      internalID: 4531239824674719844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_93
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 359
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0980503dfda5b860800000000000000
+      internalID: 7545128053678049548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_94
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 360
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d91521a85c5b130800000000000000
+      internalID: 3581986275446594963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_95
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 361
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fba933f559cb1c0800000000000000
+      internalID: -4486546892647645342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_96
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 361
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7d919d4e407c530800000000000000
+      internalID: 3875071385317005306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_97
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 361
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c765a1a6ab12228f0800000000000000
+      internalID: -566853518567516548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_98
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 363
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793c9d3731fcd09c0800000000000000
+      internalID: -3959280814933818473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_99
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 375
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7475ab8c430f8320800000000000000
+      internalID: 2562270340292375675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_100
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 364
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b4ad49552599440800000000000000
+      internalID: 4943072593538861853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_101
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 366
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008f6673ce6a9b850800000000000000
+      internalID: 6393324679501117440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_102
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 365
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2b11a889a816360800000000000000
+      internalID: 7161157270251877076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_103
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 366
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3ff661d46387cc0800000000000000
+      internalID: -3713158188050156598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_104
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 327
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85517220a774c0d10800000000000000
+      internalID: 2093126516168136024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_105
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 327
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab269136476b2adc0800000000000000
+      internalID: -3629137738712128838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_106
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 328
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db84d87798b316720800000000000000
+      internalID: 2837614701822429373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_107
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 328
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccea33e7ae7a8cd0800000000000000
+      internalID: -2555090579042407228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_108
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 328
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6230b432bc691f0800000000000000
+      internalID: -1038419311619529039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_109
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 327
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2836cbece0caf8c10800000000000000
+      internalID: 2058052734329578370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_110
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 327
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a471b594b7f7196d0800000000000000
+      internalID: -2985464910481516726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_111
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 327
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961ad0e8852755520800000000000000
+      internalID: 2690182077089685865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_112
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 295
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397888e4f77c0f900800000000000000
+      internalID: 716291690344253331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_113
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 295
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cda4befaa92bf30800000000000000
+      internalID: 4589901050601462880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_114
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 296
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28a89aaebe6ec6d0800000000000000
+      internalID: -2968313339205605332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_115
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 296
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce24094fc2b092800800000000000000
+      internalID: 588013514058121964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_116
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 296
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ea9719f44322520800000000000000
+      internalID: 2675758644959227407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_117
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 295
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5beb84898c14efda0800000000000000
+      internalID: -5909213331259343179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_118
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 295
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cba5d03bbec7bf00800000000000000
+      internalID: 1132601134680484809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_119
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 295
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1462a2b4b7c199140800000000000000
+      internalID: 4726840599769654849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_120
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 263
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732a1ac2be35c95f0800000000000000
+      internalID: -748631168519134665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_121
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 263
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a096a435c25acab0800000000000000
+      internalID: -4987082630414036825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_122
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 263
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce950ab01c8506b0800000000000000
+      internalID: -5330700580454818101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_123
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 263
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bca363f5b507030800000000000000
+      internalID: 3490390175701978001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_124
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 263
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f45e84b2253e1c0800000000000000
+      internalID: -4475643258816082058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_125
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 263
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce35349bcbcd45d0800000000000000
+      internalID: -3076578895198863675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_126
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 263
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8357de63e418dbb10800000000000000
+      internalID: 1998895982551332152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_127
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 262
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bbbfd2e91e0e9b0800000000000000
+      internalID: -5052790712417142008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a79bf4c404aca10800000000000000
+      internalID: 1930426086780926560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_129
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 231
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f9c5ae0d1ec2fa0800000000000000
+      internalID: -5824031930695508157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_130
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 231
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f1dfcf473fd4cd0800000000000000
+      internalID: -2572132128372482291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_131
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 231
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00c9bef65b1642d0800000000000000
+      internalID: -3294916016920215538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_132
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 231
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4439618c68e35f0800000000000000
+      internalID: -775033891930815286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_133
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 231
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf72ca61f9018fd0800000000000000
+      internalID: -2341579398773047362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_134
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 199
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebffc5bd673056c0800000000000000
+      internalID: -4156761511721698334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_135
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 199
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b162132b2d92f4530800000000000000
+      internalID: 3841334992079758875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_136
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 199
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727618680cc3c7950800000000000000
+      internalID: 6448095564075722535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_137
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 199
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10668111c83447de0800000000000000
+      internalID: -1336368920560900607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_138
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 199
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c81f4a6642d2c000800000000000000
+      internalID: 54837345354979522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_139
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 199
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2de5c20958083a0800000000000000
+      internalID: -6665180594242137423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_140
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 167
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3a211298dac3890800000000000000
+      internalID: -7476910476864871508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_141
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 167
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbe7bb4e5fec1e50800000000000000
+      internalID: 6781558327189433301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_142
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 167
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcf1518a141f8220800000000000000
+      internalID: 2490231223030512884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_143
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 167
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649158d68154fafa0800000000000000
+      internalID: -5787331024928827066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_144
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 167
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705c30f80ed9d0590800000000000000
+      internalID: -7706329799563426553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_145
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 167
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c26ba812fbb863b0800000000000000
+      internalID: -5518954694872177980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_146
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 135
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f08df36c0c45510800000000000000
+      internalID: 1537065330547363679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_147
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 128
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4299d02a6830a3c0800000000000000
+      internalID: -4350415211571080630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_148
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 130
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483b09618473334f0800000000000000
+      internalID: -850275121887136892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_149
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 129
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dd29abfa01a8a30800000000000000
+      internalID: 4218202347921399129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_150
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 129
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1b6ab49085aa490800000000000000
+      internalID: -7734272613108239960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_151
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 135
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0fc5865111dae80800000000000000
+      internalID: -8165851765709934405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_152
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 103
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abc4aaf877c954c0800000000000000
+      internalID: -4298185046933320799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_153
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 71
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61e3047854d93780800000000000000
+      internalID: -8702691328548150929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_154
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 39
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf4a2239bfa70290800000000000000
+      internalID: -7924171809389654051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Sheet4_155
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c2a7efe985d6f50800000000000000
+      internalID: 6876249645962112004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CharAni-Sheet4_0: 2484953741054241863
+      CharAni-Sheet4_1: -1117667294286563116
+      CharAni-Sheet4_10: -6440295014339249916
+      CharAni-Sheet4_100: 4943072593538861853
+      CharAni-Sheet4_101: 6393324679501117440
+      CharAni-Sheet4_102: 7161157270251877076
+      CharAni-Sheet4_103: -3713158188050156598
+      CharAni-Sheet4_104: 2093126516168136024
+      CharAni-Sheet4_105: -3629137738712128838
+      CharAni-Sheet4_106: 2837614701822429373
+      CharAni-Sheet4_107: -2555090579042407228
+      CharAni-Sheet4_108: -1038419311619529039
+      CharAni-Sheet4_109: 2058052734329578370
+      CharAni-Sheet4_11: 3776163538788429891
+      CharAni-Sheet4_110: -2985464910481516726
+      CharAni-Sheet4_111: 2690182077089685865
+      CharAni-Sheet4_112: 716291690344253331
+      CharAni-Sheet4_113: 4589901050601462880
+      CharAni-Sheet4_114: -2968313339205605332
+      CharAni-Sheet4_115: 588013514058121964
+      CharAni-Sheet4_116: 2675758644959227407
+      CharAni-Sheet4_117: -5909213331259343179
+      CharAni-Sheet4_118: 1132601134680484809
+      CharAni-Sheet4_119: 4726840599769654849
+      CharAni-Sheet4_12: 696982235455340048
+      CharAni-Sheet4_120: -748631168519134665
+      CharAni-Sheet4_121: -4987082630414036825
+      CharAni-Sheet4_122: -5330700580454818101
+      CharAni-Sheet4_123: 3490390175701978001
+      CharAni-Sheet4_124: -4475643258816082058
+      CharAni-Sheet4_125: -3076578895198863675
+      CharAni-Sheet4_126: 1998895982551332152
+      CharAni-Sheet4_127: -5052790712417142008
+      CharAni-Sheet4_128: 1930426086780926560
+      CharAni-Sheet4_129: -5824031930695508157
+      CharAni-Sheet4_13: 2215253757436455294
+      CharAni-Sheet4_130: -2572132128372482291
+      CharAni-Sheet4_131: -3294916016920215538
+      CharAni-Sheet4_132: -775033891930815286
+      CharAni-Sheet4_133: -2341579398773047362
+      CharAni-Sheet4_134: -4156761511721698334
+      CharAni-Sheet4_135: 3841334992079758875
+      CharAni-Sheet4_136: 6448095564075722535
+      CharAni-Sheet4_137: -1336368920560900607
+      CharAni-Sheet4_138: 54837345354979522
+      CharAni-Sheet4_139: -6665180594242137423
+      CharAni-Sheet4_14: -3787823128951530849
+      CharAni-Sheet4_140: -7476910476864871508
+      CharAni-Sheet4_141: 6781558327189433301
+      CharAni-Sheet4_142: 2490231223030512884
+      CharAni-Sheet4_143: -5787331024928827066
+      CharAni-Sheet4_144: -7706329799563426553
+      CharAni-Sheet4_145: -5518954694872177980
+      CharAni-Sheet4_146: 1537065330547363679
+      CharAni-Sheet4_147: -4350415211571080630
+      CharAni-Sheet4_148: -850275121887136892
+      CharAni-Sheet4_149: 4218202347921399129
+      CharAni-Sheet4_15: -3820637716740078343
+      CharAni-Sheet4_150: -7734272613108239960
+      CharAni-Sheet4_151: -8165851765709934405
+      CharAni-Sheet4_152: -4298185046933320799
+      CharAni-Sheet4_153: -8702691328548150929
+      CharAni-Sheet4_154: -7924171809389654051
+      CharAni-Sheet4_155: 6876249645962112004
+      CharAni-Sheet4_16: -8171795776085320252
+      CharAni-Sheet4_17: 1305644766227285546
+      CharAni-Sheet4_18: 3351525191810705790
+      CharAni-Sheet4_19: -8843802636837307321
+      CharAni-Sheet4_2: -2292254211875033920
+      CharAni-Sheet4_20: 2471988685165499571
+      CharAni-Sheet4_21: -9178770806287702992
+      CharAni-Sheet4_22: 2520470488535152234
+      CharAni-Sheet4_23: 3115011643704047804
+      CharAni-Sheet4_24: -8723466701149893484
+      CharAni-Sheet4_25: -4038497658946895409
+      CharAni-Sheet4_26: -8376956503826425318
+      CharAni-Sheet4_27: -244967166898533600
+      CharAni-Sheet4_28: -8608430481783622962
+      CharAni-Sheet4_29: 3932248645220219622
+      CharAni-Sheet4_3: -2879477619445623595
+      CharAni-Sheet4_30: -9013986724183355876
+      CharAni-Sheet4_31: -8802368575907287284
+      CharAni-Sheet4_32: -3624094067376879126
+      CharAni-Sheet4_33: -1457012857297185543
+      CharAni-Sheet4_34: 109691934151856538
+      CharAni-Sheet4_35: -3375372133238999897
+      CharAni-Sheet4_36: -1015038986214286816
+      CharAni-Sheet4_37: -7956563497541155973
+      CharAni-Sheet4_38: -5182529425703312998
+      CharAni-Sheet4_39: -305899259474770912
+      CharAni-Sheet4_4: 2326351578401158943
+      CharAni-Sheet4_40: 1507910690430685456
+      CharAni-Sheet4_41: 7766005037439720923
+      CharAni-Sheet4_42: -2006424469610071366
+      CharAni-Sheet4_43: -6828657937602998902
+      CharAni-Sheet4_44: -8542214598990280979
+      CharAni-Sheet4_45: -146927825461564570
+      CharAni-Sheet4_46: 2131883920216628281
+      CharAni-Sheet4_47: -5973130361006799797
+      CharAni-Sheet4_48: 4899744240616662362
+      CharAni-Sheet4_49: 5562662043905139490
+      CharAni-Sheet4_5: -3786539517011274663
+      CharAni-Sheet4_50: -1106969196034787437
+      CharAni-Sheet4_51: -5137209428709627302
+      CharAni-Sheet4_52: -4421713336353098032
+      CharAni-Sheet4_53: 336535535563247913
+      CharAni-Sheet4_54: -6427471298803210179
+      CharAni-Sheet4_55: -724504972761344152
+      CharAni-Sheet4_56: 4116367811836448478
+      CharAni-Sheet4_57: -9039274761201779791
+      CharAni-Sheet4_58: -2402837651849407242
+      CharAni-Sheet4_59: 5444474243117101116
+      CharAni-Sheet4_6: -764753838210850416
+      CharAni-Sheet4_60: -3826741315282676885
+      CharAni-Sheet4_61: 2172696385135944853
+      CharAni-Sheet4_62: -7120950557754236154
+      CharAni-Sheet4_63: -8098980190787153289
+      CharAni-Sheet4_64: -5883280205002536076
+      CharAni-Sheet4_65: -5942412537306791223
+      CharAni-Sheet4_66: 29384554020371941
+      CharAni-Sheet4_67: -6628602998601236965
+      CharAni-Sheet4_68: -7145503220302865153
+      CharAni-Sheet4_69: -6183811686973470521
+      CharAni-Sheet4_7: -5262870103396523323
+      CharAni-Sheet4_70: -2553606271341597285
+      CharAni-Sheet4_71: 5716325401795104346
+      CharAni-Sheet4_72: 949183833651783588
+      CharAni-Sheet4_73: -947855416659097514
+      CharAni-Sheet4_74: -571251807892685588
+      CharAni-Sheet4_75: -9188870768910648803
+      CharAni-Sheet4_76: -2552555431612851626
+      CharAni-Sheet4_77: 5401716251269958657
+      CharAni-Sheet4_78: -8477744169254244014
+      CharAni-Sheet4_79: -3727889324767204777
+      CharAni-Sheet4_8: -8772459956379980873
+      CharAni-Sheet4_80: -12421840169487218
+      CharAni-Sheet4_81: -6428781705332590228
+      CharAni-Sheet4_82: 8535487660805356034
+      CharAni-Sheet4_83: 1485774321384882591
+      CharAni-Sheet4_84: 1860699060117453116
+      CharAni-Sheet4_85: 3548611110890203565
+      CharAni-Sheet4_86: 7046371959249847790
+      CharAni-Sheet4_87: 1715522225508020831
+      CharAni-Sheet4_88: -6039574660525213405
+      CharAni-Sheet4_89: -7637447635748723772
+      CharAni-Sheet4_9: 5150976330806246060
+      CharAni-Sheet4_90: 7482363953055990865
+      CharAni-Sheet4_91: -2782141465020735979
+      CharAni-Sheet4_92: 4531239824674719844
+      CharAni-Sheet4_93: 7545128053678049548
+      CharAni-Sheet4_94: 3581986275446594963
+      CharAni-Sheet4_95: -4486546892647645342
+      CharAni-Sheet4_96: 3875071385317005306
+      CharAni-Sheet4_97: -566853518567516548
+      CharAni-Sheet4_98: -3959280814933818473
+      CharAni-Sheet4_99: 2562270340292375675
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

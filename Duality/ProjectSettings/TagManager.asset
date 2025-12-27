@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Wall
+  - Hazard
+  - LightZone
+  - DarkZone
+  - Enemy
+  - RespawnPoint
+  - End
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Ground
+  - Wall
+  - Hazard
+  - Darkness
+  - Light
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 998644303
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 1386991039
+    locked: 0
+  - name: Walls
+    uniqueID: 4130832637
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 3635093895
+    locked: 0
+  - name: Objects
+    uniqueID: 2161260443
+    locked: 0
+  - name: New Layer 6
+    uniqueID: 1844824231
+    locked: 0
+  - name: New Layer 7
+    uniqueID: 1921295879
+    locked: 0
+  - name: New Layer 8
+    uniqueID: 1202914483
+    locked: 0
+  m_RenderingLayers:
+  - Default
