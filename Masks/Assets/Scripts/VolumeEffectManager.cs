@@ -21,11 +21,6 @@ public class VolumeEffectManager : MonoBehaviour
         }
     }
 
-    void OnTriggerEnter2D(Collider2D collision)
-    {
-        
-    }
-
     public void SetMaskVignette(bool maskOn)
     {
         if (vignette == null) return;
